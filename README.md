@@ -2,5 +2,5 @@
 42Cursus-netwhat/42Lisboa
 ## MOULINETTE
 ```
-default: Everything went well and your mark is: 95
+default: Everything went well and your mark is: 100
 ```
